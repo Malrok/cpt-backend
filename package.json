@@ -1,0 +1,24 @@
+{
+  "name": "cpt-backend",
+  "version": "1.0.0",
+  "description": "Mobile Cross Platform tests backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moventest/cpt-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moventest/cpt-backend/issues"
+  },
+  "homepage": "https://github.com/moventest/cpt-backend#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "^0.14.1",
+    "firebase": "^5.0.4",
+    "firebase-admin": "^5.12.1"
+  }
+}
